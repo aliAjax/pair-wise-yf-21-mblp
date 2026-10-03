@@ -1,0 +1,10 @@
+{
+  "name": "地毯纹样修复台",
+  "short_name": "修复台",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f1e6",
+  "theme_color": "#7c2d12",
+  "lang": "zh-CN",
+  "icons": []
+}
